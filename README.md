@@ -23,10 +23,10 @@ Whether you're a beginner trying to understand a concept for the first time or s
 ## 🌍 Live Project
 
 🚀 Frontend  
-PASTE_YOUR_VERCEL_LINK
+https://smart-simplify-ai.vercel.app/
 
 ⚡ Backend API  
-PASTE_YOUR_RENDER_LINK
+https://smartsimplify-ai.onrender.com
 
 ---
 
@@ -51,18 +51,6 @@ PASTE_YOUR_RENDER_LINK
 ### Deployment
 - Vercel
 - Render
-
----
-
-## 📸 Screenshots
-
-Add your project screenshots here 😄
-
-You can include:
-- Homepage
-- Chat interface
-- AI response examples
-- Mobile view
 
 ---
 
